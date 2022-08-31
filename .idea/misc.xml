@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TAILIEU/year3/HK122/android/ProfileUI/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2265" />
+        <entry key="..\:/TAILIEU/year3/HK122/android/ProfileUI/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2265" />
+        <entry key="..\:/TAILIEU/year3/HK122/android/ProfileUI/app/src/main/res/drawable/ic_wave.xml" value="0.2265" />
+        <entry key="..\:/TAILIEU/year3/HK122/android/ProfileUI/app/src/main/res/drawable/round_bg.xml" value="0.2265" />
+        <entry key="..\:/TAILIEU/year3/HK122/android/ProfileUI/app/src/main/res/drawable/round_border.xml" value="0.2265" />
         <entry key="..\:/TAILIEU/year3/HK122/android/ProfileUI/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
